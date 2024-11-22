@@ -1,0 +1,403 @@
+body{
+	background-color:#f6f6f6;
+	padding-left: 1%;
+	padding-right: 1%;
+	max-width: 100%;
+	font-family: calibri;
+}
+
+.logo2{
+	padding: 8px;
+	background: #DDE4E3;
+	overflow: hidden;
+	font-size: large;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+	font-weight:bold;
+	color: #cc1919;
+	
+}
+
+.logo2 a{
+	color: #cc1919;
+	text-decoration: none;
+	
+}
+
+.fieldset-auto-width {
+
+display: inline-block;
+
+}
+
+dcounter{
+	font-size: small;
+	font-weight:normal;
+	color: #000000;
+}
+
+textcolor1{
+	color: #d95e11;
+	word-wrap: break-word;
+}
+
+textcolor11{
+	color: #ff0000;
+	font-weight: bold;
+}
+
+textcolor111{
+	color: #d95e11;
+	font-size: 70%;
+}
+
+textcolor2{
+	color: #5e920b;
+}
+
+textcolor3{
+	color: #53ba2e;
+	font-weight: bold;
+}
+
+.hline{
+	border-top: 1px solid black;
+	width: 50%;
+
+}
+.mainbox, .moviename, .commentbox, .question{
+	padding: 8px;
+	background: #dae7e1;
+	overflow: hidden;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+	font-weight:bold;
+		
+}
+
+.mainbox2{
+	padding: 8px;
+	overflow: hidden;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+	font-weight:bold;
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.mainbox3{
+	padding: 8px;
+	overflow: hidden;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+	font-weight:bold;
+	background-image: url('../images/OEkLgaKanqUN.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.mainbox4{
+	text-align:center;
+	font-weight:bold;
+	padding: 8px;
+	font-size: 100%;
+	background-image: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 2;
+	margin-right:9%;
+	margin-left:5%;
+	border-radius: 4px 4px 4px 4px;
+	list-style-type:none;
+}
+
+.downloadlinkspro{
+	text-align:center;
+	font-weight:bold;
+	padding: 8px;
+	font-size: 100%;
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 2;
+	margin-right:9%;
+	margin-left:5%;
+	border-radius: 4px 4px 4px 4px;
+	list-style-type:none;
+}
+
+.question{
+	text-align:left;
+	font-weight:bold;
+	color: #d95e11;
+}
+
+.mainboxul, .movieslist, .moviedesc, .mainpagetext, .commentreply, .answer{
+	background: #ebefef;
+	margin-top: 1;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 4px 4px 4px 4px;
+		
+}
+
+.starcast{
+	background: #f9fbfa;
+	font-size: small;
+	margin-top: 2;
+	margin-bottom: 2;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+}
+	
+
+.mainpagetext{
+	color: #d95e11;
+	text-align:center;
+	padding: 8px;
+}
+
+.filesboxul li, .moviesul li, .movieslistul li, .sortcatg li, .commentlistul li{
+	list-style-type:none;
+	display: block;
+	margin-top: 8px;
+    padding:5px 6px 4px 6px;
+			
+}
+
+.mainboxul li{
+	list-style-type:cirlce;
+    padding:5px 6px 5px 6px;
+	font-weight: bold;
+}
+
+
+.sortcatg{
+	background: #f9fbfa;
+	font-size: medium;
+	margin-top: 0;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+		
+}
+
+.sortcatg li{
+	display: inline;
+			}
+			
+.calibri{
+    font-family: calibri, Helvetica, sans-serif;
+}		
+			
+
+.moviesul, .moviesfiles{
+	background: #f9fbfa;
+	font-size: small;
+	margin-top: 0;
+
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 4px 4px 4px 4px;
+		
+}
+
+.downloadlinks li{
+	text-align:center;
+	font-weight:bold;
+	padding: 8px;
+	font-size: 100%;
+	background-image: url('../images/OEkLgaKanqUN.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 2;
+	margin-right:9%;
+	margin-left:5%;
+	border-radius: 4px 4px 4px 4px;
+	list-style-type:none;
+	
+}
+
+ul.downloadlinks{
+	padding-left: 1px;
+	padding-right: 1px;
+		
+}
+
+
+.movieslistul li{
+	text-align:center;
+			
+}
+
+.commentlistul li{
+	text-align:left;
+	margin-top: 2px;
+	padding:0px 0px 0px 0px;
+    
+			
+}
+
+.moviename{
+	background-image: url('../images/OEkLgaKanqUN.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-size: large;	
+}
+
+.moviedesc{
+	text-align:center;
+	
+}
+
+.moviedesc1{
+	text-align:center;
+	font-weight:bold;	
+	font-size:large;
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.commentreply{
+	text-align:left;	
+}
+
+.filesboxul li{
+	font-weight:bold;
+	text-align:center;
+	
+
+}
+
+.ptype{
+	font-size: small;
+	font-weight:bold;
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.ptype1{
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.moviesfiles li{
+	font-weight:normal;
+	font-size: medium;
+	text-align: center;
+
+}
+
+.footer{
+	padding: 8px;
+	background-image: url('../images/7WVm3LP3T9Tn.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	overflow: hidden;
+	margin-top: 10px;
+	border-radius: 4px 4px 4px 4px;
+	text-align:center;
+	font-weight:bold;
+		
+}
+
+.adblock_top, .ad_block_files{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align:center;
+	
+}
+
+.topboxul{
+	background: #ece8e5;
+	margin-bottom: 6px;
+	border-bottom-left-radius:4px;
+	border-bottom-right-radius:4px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	font-size:80%;
+	line-height:125%;
+	margin-bottom:15px;
+	padding-bottom:6px;
+	padding-top:6px;
+}
+
+.topboxul li{
+	
+}
+
+input[type=text], select {
+	width: 60%;
+	float: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=text1], select {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.Button {
+	background-color:#44c767;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:7px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.Button:hover {
+	background-color:#5cbf2a;
+}
+.Button:active {
+	position:relative;
+	top:1px;
+}
+
+.dropbtn1 {background-color: #1CDB29;color: white;padding: 4px;padding-top:11px; padding-bottom:11px; font-size: 13px;border: none;cursor: pointer;}
+.dropbtn1:hover, .dropbtn1:focus {background-color: #16C722;}
+.dropdown1 {position: relative;display: inline-block;}
+.dropdown1-content {display: none;position: absolute;background-color: #f1f1f1;min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+.dropdown1-content a {color: black;padding: 12px 16px;text-decoration: none;display: block;}
+.dropdown1-content a:hover {background-color: #ddd}
+.dropbtn1 {border-radius: 8px;}
